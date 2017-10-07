@@ -1,6 +1,6 @@
 # Shortcuts
 
-### Current shortcuts apps list:
+### Current apps list:
 
 * [X] Xcode
 
