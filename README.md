@@ -8,8 +8,6 @@
 
 ### Todo apps list:
 
-.. [ ] - Visual Studio Code
-
-.. [ ] - Eclipse
-
-.. [ ] - Intelli J
+..* [ ] - Visual Studio Code
+..* [ ] - Eclipse
+..* [ ] - Intelli J
