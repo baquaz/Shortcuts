@@ -2,7 +2,7 @@
 
 ### Current apps list:
 
-* [X] [Xcode] (http://blaszku.alwaysdata.net/shortcuts/xcode.html) 
+* [X] [Xcode](http://blaszku.alwaysdata.net/shortcuts/xcode.html) 
 
 
 
