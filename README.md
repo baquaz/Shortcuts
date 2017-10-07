@@ -2,7 +2,7 @@
 
 ### Current shortcuts apps list:
 
-[x] Xcode
+[X] Xcode
 
 
 
